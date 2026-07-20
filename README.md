@@ -49,6 +49,6 @@
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p> -->
-
+<!-- 
 -----
-Credito: [haidercapera440](https://github.com/haidercapera440)
+Credito: [haidercapera440](https://github.com/haidercapera440) -->
