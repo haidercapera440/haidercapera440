@@ -1,6 +1,6 @@
 
 
-<img src="Baner.jpg" alt="Baner de haidercapera440" width='40' align="left"/><h2>hola, soy haidercapera440</h2>
+<img src="Baner.jpg" alt="Baner de haidercapera440" width='400' align="left"/><h2>hola, soy haidercapera440</h2>
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
