@@ -18,4 +18,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,godot)](https://skillicons.dev)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=haidercapera440&theme=dark&locale=es&short_numbers=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=haidercapera440&theme=dark&locale=es&short_numbers=true&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
