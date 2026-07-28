@@ -19,4 +19,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,godot)](https://skillicons.dev)
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=haidercapera440&theme=dark&locale=es&short_numbers=" alt="GitHub Streak" /></a>
